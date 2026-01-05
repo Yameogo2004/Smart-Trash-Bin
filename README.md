@@ -41,8 +41,6 @@ This project combines sensors, actuators, and microcontroller logic to provide a
 
 report/ # Technical report PDF
 
-hardware/ # Circuit diagrams and component details
-
 media/
 images/ # Photos of the prototype
 videos/ # Demo videos or links
